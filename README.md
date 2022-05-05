@@ -16,3 +16,11 @@
     anteriores con las nuevas técnicas de manipulación de la información y formatos de datos exclusivos del ordenador para formar 
     nuevas combinaciones” Lev Manovich, El software toma el mando.
 ~~~
+~~~
+    Para esta actividad hay que buscar dos ejemplos de hibridación y redactar un ensayo. Después de darle muchas vueltas a los
+    posibles ejemplos he consensuado con el profesor tratar los temas:
+    - Google Earth
+    - La app Traductor de Google.
+    Tengo que decir que no he utilizado ninguna de las dos, que las estoy conociendo ahora. Como traductor he utilizado otras 
+    aplicaciones, y Google Earth no sabía las tantísimas utilidades que tiene, así que aprenderé más de lo que pide la actividad.
+~~~
